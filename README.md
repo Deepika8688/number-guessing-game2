@@ -1,6 +1,9 @@
 
 
-https://github.com/Deepika8688/number-guessing-game2/assets/162797537/a93a6377-f813-4a19-ba56-d1b7bca489cf
+
+
+https://github.com/Deepika8688/number-guessing-game2/assets/162797537/ce0cf40f-c43c-47d4-8c9b-6ee8af38caeb
+
 
 # number guessing game2
 
